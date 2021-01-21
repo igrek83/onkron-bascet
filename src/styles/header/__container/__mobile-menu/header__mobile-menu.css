@@ -1,0 +1,19 @@
+@import url(./__line-mobile/header__line-mobile.css);
+@import url(./__mobile-title-block/header__mobile-title-block.css);
+@import url(./__input-container/header__input-container.css);
+@import url(./__user-hint/header__user-hint.css);
+@import url(./__bascet-box/header__bascet-box.css);
+@import url(./__summa-block/header__summa-block.css);
+
+.header__mobile-menu {
+  position: absolute;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  background: #252b2b;
+  width: 1100px;
+  top: 220px;
+  left: 0;
+  padding-bottom: 550px;
+  z-index: 3;
+}

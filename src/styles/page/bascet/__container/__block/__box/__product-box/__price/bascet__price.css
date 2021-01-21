@@ -1,0 +1,8 @@
+.bascet__price {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 25px;
+  color: #202525;
+  flex: 1;
+}

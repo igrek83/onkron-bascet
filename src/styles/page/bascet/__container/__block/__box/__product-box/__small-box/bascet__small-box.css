@@ -1,0 +1,10 @@
+@import url(./__minus/bascet__minus.css);
+@import url(./__plus/bascet__plus.css);
+@import url(./__counter/bascet__counter.css);
+
+.bascet__small-box {
+  display: flex;
+  justify-content: space-between;
+  width: 90px;
+  margin-right: 210px;
+}

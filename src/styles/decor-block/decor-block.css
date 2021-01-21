@@ -1,0 +1,6 @@
+@import url(./__title-line/decor-block__title-line.css);
+
+.decor-block {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,22 @@
+.header__popup-left-button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  width: 158px;
+  height: 38px;
+  border-radius: 13px;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #252b2b;
+  background: #1fcfcb;
+  transition: all .3s ease-in;
+  border: 1px solid #1fcfcb;
+}
+
+.header__popup-left-button:hover {
+  background: none;
+  color: #1fcfcb;
+}

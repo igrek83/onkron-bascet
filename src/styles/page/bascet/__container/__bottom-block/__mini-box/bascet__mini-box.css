@@ -1,0 +1,9 @@
+@import url(./__big-button/bascet__big-button.css);
+@import url(./__small-box/bascet__small-box.css);
+
+.bascet__mini-box {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  right: -200px;
+}

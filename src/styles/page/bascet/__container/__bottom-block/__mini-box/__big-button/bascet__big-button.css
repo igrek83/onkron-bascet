@@ -1,0 +1,22 @@
+.bascet__big-button {
+  outline: none;
+  border: none;
+  background: #f1f1f1;
+  cursor: pointer;
+  width: 270px;
+  height: 50px;
+  box-shadow: -5px -5px 11.6px #fff,
+  5px 5px 11.6px rgba(157, 157, 157, .36);
+  border-radius: 11px;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 49px;
+  color: #697776;
+  text-transform: uppercase;
+}
+
+.bascet__big-button:active {
+  box-shadow: inset -5px -5px 11.6px #fff,
+  inset 5px 5px 11.6px rgba(157, 157, 157, .36);
+}

@@ -1,0 +1,6 @@
+@import url(./__product-box/bascet__product-box.css);
+
+.bascet__box {
+  display: flex;
+  flex-direction: column;
+}

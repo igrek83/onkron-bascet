@@ -1,0 +1,15 @@
+@import url(./__image-box/bascet__image-box.css);
+@import url(./__close/bascet__close.css);
+@import url(./__product-name/bascet__product-name.css);
+@import url(./__small-box/bascet__small-box.css);
+@import url(./__price/bascet__price.css);
+
+.bascet__product-box {
+  display: flex;
+  align-items: center;
+  background: #e7e7e7;
+  width: 100%;
+  border-radius: 38px;
+  padding: 14px 64px 14px 14px;
+  margin-bottom: 24px;
+}

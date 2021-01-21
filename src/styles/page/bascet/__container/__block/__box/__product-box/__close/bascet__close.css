@@ -1,0 +1,37 @@
+.bascet__close {
+  position: relative;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  width: 46px;
+  height: 46px;
+  background: #e6e6e6;
+  border-radius: 14px;
+  box-shadow: -3px -3px 4px rgba(255, 255, 255, .44),
+  3.5px 3.5px 4px rgba(160, 159, 159, .3);
+}
+
+.bascet__close:active {
+  box-shadow: inset -3px -3px 4px rgba(255, 255, 255, .44),
+  inset 3.5px 3.5px 4px rgba(160, 159, 159, .3);
+}
+
+.bascet__close::before {
+  position: absolute;
+  content: "";
+  width: 18px;
+  height: 1px;
+  background: #979797;
+  transform: rotate(-45deg);
+  right: 14px;
+}
+
+.bascet__close::after {
+  position: absolute;
+  content: "";
+  width: 18px;
+  height: 1px;
+  background: #979797;
+  transform: rotate(45deg);
+  right: 14px;
+}

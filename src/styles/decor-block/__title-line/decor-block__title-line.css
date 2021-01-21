@@ -1,0 +1,24 @@
+.decor-block__title-line {
+  display: flex;
+  justify-content: space-between;
+  width: 110px;
+  margin-bottom: 14px;
+}
+
+.decor-block__figure-white {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #f3f3f3;
+  box-shadow: inset -4px -4px 4px rgba(100, 100, 100, 0.15),
+  inset 4px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.decor-block__figure-black {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #252b2b;
+  box-shadow: inset -4px -4px 4px rgba(100, 100, 100, 0.15),
+    inset 4px 4px 4px rgba(0, 0, 0, 0.15);
+}

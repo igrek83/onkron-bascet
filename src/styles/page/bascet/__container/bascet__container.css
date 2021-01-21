@@ -1,0 +1,10 @@
+@import url(./__title/bascet__title.css);
+@import url(./__span/bascet__span.css);
+@import url(./__block/bascet__block.css);
+@import url(./__bottom-block/bascet__bottom-block.css);
+
+.bascet__container {
+  display: flex;
+  flex-direction: column;
+  width: 1200px;
+}

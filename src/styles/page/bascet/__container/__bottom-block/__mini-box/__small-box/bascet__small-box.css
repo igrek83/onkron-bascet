@@ -1,0 +1,10 @@
+@import url(./__total/bascet__total.css);
+@import url(./__summa/bascet__summa.css);
+
+.bascet__small-box {
+  display: flex;
+  justify-content: space-between;
+  width: 270px;
+  margin-bottom: 29px;
+  margin-top: 2px;
+}

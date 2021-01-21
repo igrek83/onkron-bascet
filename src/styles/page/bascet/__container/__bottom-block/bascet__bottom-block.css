@@ -1,0 +1,8 @@
+@import url(./__input/bascet__input.css);
+@import url(./__mini-box/bascet__mini-box.css);
+
+.bascet__bottom-block {
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+}

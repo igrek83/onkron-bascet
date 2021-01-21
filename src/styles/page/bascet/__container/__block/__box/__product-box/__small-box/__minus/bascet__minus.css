@@ -1,0 +1,18 @@
+.bascet__minus {
+  position: relative;
+  outline: none;
+  border: none;
+  background: none;
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+}
+
+.bascet__minus::before {
+  position: absolute;
+  content: "";
+  width: 12px;
+  height: 2px;
+  right: 6px;
+  background: rgba(29, 33, 37, .5);
+}

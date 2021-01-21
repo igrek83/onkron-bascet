@@ -1,0 +1,12 @@
+@import url(./__image/bascet__image.css);
+
+.bascet__image-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 136px;
+  height: 136px;
+  background: #fff;
+  border-radius: 29px;
+  margin-right: 110px;
+}

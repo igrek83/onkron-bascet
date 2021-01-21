@@ -1,0 +1,18 @@
+@import url(./__popup-box/header__popup-box.css);
+
+.header__popup-container {
+  position: absolute;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+  overflow: hidden;
+  background: #212727;
+  box-shadow: -1px -1px 1px rgba(31, 207, 203, 0.4),
+    4px 4px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 14px;
+  top: 57px;
+  right: 0px;
+  z-index: 3;
+  padding-right: 20px;
+}

@@ -1,0 +1,9 @@
+@import url(./__mobile-title/header__mobile-title.css);
+@import url(./__bascet-circle/header__bascet-circle.css);
+
+.header__mobile-title-block {
+  display: flex;
+  align-items: center;
+  margin-top: 170px;
+  margin-bottom: 150px;
+}

@@ -1,0 +1,23 @@
+.header__decor-image-left {
+  position: absolute;
+  left: 5px;
+  top: -2px;
+}
+
+@media all and (max-width: 1850px) {
+  .header__decor-image-left {
+    display: none;
+  }
+}
+
+.header__decor-image-right {
+  position: absolute;
+  right: 5px;
+  top: -2px;
+}
+
+@media all and (max-width: 1850px) {
+  .header__decor-image-right {
+    display: none;
+  }
+}

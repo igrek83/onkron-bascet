@@ -1,0 +1,10 @@
+@import url(./__column-name/bascet__column-name.css);
+
+.bascet__title-box {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  margin-top: 10px;
+  padding-left: 267px;
+  padding-right: 348px;
+}
